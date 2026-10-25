@@ -28,3 +28,4 @@ The Simran count, progress, and daily checkbox are stored in the visitor's brows
 
 ## Development notes
 No build tool or dependency installation is required for the current single-file version. The website source is `index.html`. Keep any future API keys and private credentials out of client-side code.
+google.com, pub-3030592962475401, DIRECT, f08c47fec0942fa0
